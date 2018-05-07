@@ -1,0 +1,102 @@
+*{
+    outline: 1px dashed palegreen;
+}
+#wrapper{
+    width: 970px;
+    margin: 0px auto;
+}
+header h1, header h2{
+    display: inline-block;
+    width: 48%;
+}
+#bio{
+    height: 250px;
+    padding: 20px;
+    background-color: purple;
+}
+#bio img{
+    height: 250px;
+    width: 356px;
+}
+#bio div{
+    display: inline-block;
+    width: 548px;
+    vertical-align: top;
+    margin-left: 20px;
+}
+h1,h2{
+    display: inline-block;
+}
+#bio div h3{
+    margin: 18px;
+    height: 30px;
+    padding: 2px;
+    background-color: silver;
+    color: white
+}
+#div projects{
+    display: inline-block;
+}
+
+.project1{
+    margin-bottom: 20px;
+	width:410px;
+	height:auto;
+	border: 5px solid #7d7377;
+}
+
+
+
+
+
+.tech_images {
+	padding:15px 0px 0px 12px;
+}
+
+.tech_images img{
+	width:40px;
+	height:40px;
+}
+
+.tech_images li{
+	display: inline-block;
+	margin-right:10px;
+}
+.tech_images img{
+	width:40px;
+	height:40px;
+}
+.projects button {
+	background-color: green;
+	color:white;
+	border:solid 1px black;
+	border-radius: 3px;
+	padding:5px;
+	margin: 10px 100px;
+	font-weight: 900;
+}
+.footer{
+	width:968px;
+	height:50px;
+}
+.footer p
+{
+	margin:auto;
+	width: 240px;
+}
+.footer ul {
+	width: 380px;
+	margin:auto;
+}
+.footer ul li {
+	display:inline-block;
+}
+.footer img {
+	width: 25px;
+	height:auto;
+	margin:auto;
+}
+
+footer{
+    height: 100px;
+}
